@@ -4,7 +4,7 @@ repo: upptimemsk # The name of this repository
 
 sites:
   - name: PequeBastard
-    url: https://586c4828-a5a7-4115-92b6-31b67a0f8f75-00-r12aphlzvzhz.kirk.replit.dev/
+    url: http://pequenobastardo.meisokyt.repl.co
     port: 80
     check: "tcp-ping"
     ipv6: true
